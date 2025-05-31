@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Mercedes C63 AMG",
       "description": "Mercedes-Benz C63 AMG ove generacije potječe iz vremena u kojem riječ downsizing još nije bila uobičajena. Snažan konkurent BMW-u M3. Kao odgovor na taj GTS, C63 AMG dobio je tretman Black Series. Proizvedeno je samo 800 primjeraka, od kojih vam sada možemo ponuditi jedan!",
-      "imageUrl": "https://picsum.photos/seed/mercedes/600/400",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mercedes-Benz_C63_AMG_-_Flickr_-_Alexandre_Pr%C3%A9vot_%287%29_%28cropped%29.jpg",
       "websiteUrl": "https://www.mercedes-amg.com/"
     },
     {
       "id": 2,
       "name": "Mazda MX-5 Miata (ND)",
       "description": "Četvrta generacija Mazde MX-5, poznata kao ND, lagan je i okretan sportski dvosjed koji pruža čisto vozačko zadovoljstvo. Poznata po svojoj izvrsnoj upravljivosti i pristupačnoj cijeni.",
-      "imageUrl": "https://picsum.photos/seed/mazda/600/400",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mazda_MX-5_%28ND%29_1X7A7471.jpg/2560px-Mazda_MX-5_%28ND%29_1X7A7471.jpg",
       "websiteUrl": "https://www.mazda.com/en/cars/mx-5/"
     },
     {

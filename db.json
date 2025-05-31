@@ -4,21 +4,21 @@
       "id": 1,
       "name": "Mercedes C63 AMG",
       "description": "Mercedes-Benz C63 AMG ove generacije potječe iz vremena u kojem riječ downsizing još nije bila uobičajena. Snažan konkurent BMW-u M3. Kao odgovor na taj GTS, C63 AMG dobio je tretman Black Series. Proizvedeno je samo 800 primjeraka, od kojih vam sada možemo ponuditi jedan!",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mercedes-Benz_C63_AMG_Edition_507_Sedan_%28W204%29_V_17_Telekom_Street_Gigs_2013_Bonn.jpg/640px-Mercedes-Benz_C63_AMG_Edition_507_Sedan_%28W204%29_V_17_Telekom_Street_Gigs_2013_Bonn.jpg",
+      "imageUrl": "https://picsum.photos/seed/mercedes/600/400",
       "websiteUrl": "https://www.mercedes-amg.com/"
     },
     {
       "id": 2,
       "name": "Mazda MX-5 Miata (ND)",
       "description": "Četvrta generacija Mazde MX-5, poznata kao ND, lagan je i okretan sportski dvosjed koji pruža čisto vozačko zadovoljstvo. Poznata po svojoj izvrsnoj upravljivosti i pristupačnoj cijeni.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2018_Mazda_MX-5_RF_Sport_Nav_2.0_Front.jpg/640px-2018_Mazda_MX-5_RF_Sport_Nav_2.0_Front.jpg",
+      "imageUrl": "https://picsum.photos/seed/mazda/600/400",
       "websiteUrl": "https://www.mazda.com/en/cars/mx-5/"
     },
     {
       "id": 3,
       "name": "TVR Tuscan S",
       "description": "Rijedak original TVR Tuscan S MK 1 s volanom na lijevoj strani. Prema TVR Blogu, jedan od 22 vozila s volanom na lijevoj strani proizvedena u cijelom svijetu. Čisti pogonski stroj bez elektronske podrške.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TVR_Tuscan_Red_Rose_-_Flickr_-_The_Car_Spy_%2811%29.jpg/640px-TVR_Tuscan_Red_Rose_-_Flickr_-_The_Car_Spy_%2811%29.jpg",
+      "imageUrl": "https://picsum.photos/seed/tvr/600/400",
       "websiteUrl": "https://en.wikipedia.org/wiki/TVR_Tuscan"
     }
   ]
